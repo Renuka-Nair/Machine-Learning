@@ -28,7 +28,10 @@ Correlation matrix and other tools such as boxplots were employed to understand 
 ![image](https://user-images.githubusercontent.com/91768855/151626511-c57bb2b6-c1e1-43d8-8f67-b3054624f8a2.png)
 
 ## Model Building 
-Post data cleaning and data exploration phase we started with model building. The test set had 7500 data points and below is the summary: <br />
+Post data cleaning and data exploration phase we started with model building. <br />
+0 - Loan was paid off
+1 - Defaulter <br /> 
+The test set had 7500 data points and below is the summary: <br />
 
 ### 1. Naive Model 
 Error rate: 0.016 <br />
