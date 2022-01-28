@@ -32,7 +32,7 @@ Post data cleaning and data exploration phase we started with model building. Th
 
 ### 1. Naive Model 
 Error rate: 0.016 <br />
-The average performance for 5 folds:  0.9839 <br />
+The average performance for 5 folds:  0.9839 
 
 Confusion Matrix :
 ![image](https://user-images.githubusercontent.com/91768855/151631230-e3fd216f-304c-42c7-a5b0-f29950b87b2f.png)
