@@ -34,7 +34,6 @@ Post data cleaning and data exploration phase we started with model building. Th
 Error rate: 0.016 <br />
 The average performance for 5 folds:  0.9839 
 
-Confusion Matrix :
 ![image](https://user-images.githubusercontent.com/91768855/151631230-e3fd216f-304c-42c7-a5b0-f29950b87b2f.png)
 
 ### 2. kNN 
@@ -51,7 +50,6 @@ Test accuracy: 0.99133 <br />
 out-of-bag accuracy: 0.99089 <br />
 The average performance for 5 folds:  0.9907 <br />
 
-Confusion Matrix : <br />
 ![image](https://user-images.githubusercontent.com/91768855/151631390-32371c76-d087-4e6a-942d-3868128e1fb5.png)
 
 
@@ -59,49 +57,42 @@ Confusion Matrix : <br />
 Error rate : 0.0184 <br />
 Accuracy : 0.982 <br />
 
-Confusion Matrix : <br />
 ![image](https://user-images.githubusercontent.com/91768855/151632122-c0abcb04-5a7a-4ffb-ae0d-e4a1f714d799.png)
 
 ### 5. Logistic Regression with L1 regularisation SAGA solver
 Error rate : 0.0353 <br />
 Accuracy : 0.96 <br />
 
-Confusion Matrix :
 ![image](https://user-images.githubusercontent.com/91768855/151633541-7e11c17d-5933-48b1-9ba1-b200c3ffb2ec.png)
 
 ### 6. Logistic Regression with L2 regularisation SAG solver
 Error rate : 0.0301 <br />
 Accuracy : 0.97 <br />
 
-Confusion Matrix : 
 ![image](https://user-images.githubusercontent.com/91768855/151633700-41cc0f78-405a-49b9-b54a-7ab2f0e7dee3.png)
 
 ### 7.SVM (Radial Kernel)
 Error rate: 0.0459 <br />
 Accuracy : 0.95 <br />
 
-Confusion Matrix :
 ![image](https://user-images.githubusercontent.com/91768855/151633965-e112096a-5672-485d-bd80-1b97d3e6908f.png)
 
 ### 8.SVM (Polynomial Degree=3)
 Error rate: 0.0672 <br />
 Accuracy : 0.93 <br />
 
-Confusion Matrix : 
 ![image](https://user-images.githubusercontent.com/91768855/151634365-3ba6edf4-24f4-4684-a61a-04ecf9706a2d.png)
 
 ### 9.Neural Net (Three Layers)
 Error rate: 0.0148 <br />
 Accuracy : 0.99 <br />
 
-Confusion Matrix : 
 ![image](https://user-images.githubusercontent.com/91768855/151634557-7398fcd6-06d1-4161-8672-2ccb510acecb.png)
 
 ### 10.Neural Net (Four Layers)
 Error rate: 0.135 <br />
 Accuracy : 0.86 <br />
 
-Confusion Matrix : 
 ![image](https://user-images.githubusercontent.com/91768855/151634669-f03f274a-52a8-4ae1-9b98-3b1173c5b203.png)
 
 ## Conclusion
